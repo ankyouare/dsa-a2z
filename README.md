@@ -1,2 +1,2 @@
 # dsa-a2z
-DSA for everyone, begginer to advanced, DSA prepration in C++
+DSA for everyone, DSA prepration in C++, Begginer to Advanced!!
