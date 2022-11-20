@@ -7,7 +7,7 @@
 #include <limits.h>
 
 /**
- * Algo:
+ * Intuition :
  * initialize i and j with 0.
  * Run a loop for array length 
  * with j variable being right of Window

@@ -6,6 +6,9 @@
 
 #include <iostream>
 
+/**
+ * Intuition :
+ */
 int main()
 {
 
